@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://shorturl.at/1Bg8r);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+        text-align: center;
+        margin-top: 50px;
+        font-family: sans-serif;
+        font-weight: bold;
+      
+}
+.clock-container{
+    margin-top: 200px;
+    margin-left: 250px;
+    margin-right: 350px;
+    align-self: center;
+    backface-visibility: hidden;
+    background-attachment: fixed;
+    border-color: black;
+    border-style: double;
+    border-radius: 1.5rem;
+    border-width: 2px;
+    
+    
+}
